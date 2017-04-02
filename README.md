@@ -94,5 +94,5 @@ $.getJSON(url, function(data) {
 
 具体请参考：[geolocation 对象 MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Geolocation/Using_geolocation)
 
-以上就是针对最近项目的需求收集的一些获取地理位置的方法。如果你有更好的方法，欢迎在issue中留言。
+以上就是针对最近项目的需求收集的一些获取地理位置的方法。如果你有更好的方法，欢迎在[issues](https://github.com/smileyby/getAddress/issues)中留言。
 
